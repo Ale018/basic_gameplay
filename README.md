@@ -1,1 +1,3 @@
-# basic_gameplay
+# Proyecto Unity Jugabilidad basica
+
+## Planeación Trello
