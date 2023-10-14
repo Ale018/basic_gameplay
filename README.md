@@ -6,4 +6,4 @@
 ## Videos Tuturiales de los desafios
 [Desafio 2: Jugar a traer la pelota](https://drive.google.com/drive/folders/1f06BUTvs7H6sXESJiedxzMrTT0YTIw1M?usp=sharing)
 
-[Desafio 3:]() 
+[Desafio 3: Globos, bombas y bookeanos](https://drive.google.com/drive/folders/1pfjCatzyQhEDyR6fsMdiUfP4Ri9Iw6j-?usp=sharing) 
