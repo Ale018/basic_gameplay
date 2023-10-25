@@ -2,6 +2,8 @@
 
 ## Planeación Trello
 [Planeación de Trello](https://trello.com/b/utzZsU62/desarrollo-de-videojuego)
+![image](https://github.com/Ale018/curso_unity/assets/106705670/f0e93dfd-ed4a-46e3-b2e7-8854350f836c)
+
 
 ## Videos Tuturiales de los desafios
 [Desafio 2: Jugar a traer la pelota](https://drive.google.com/drive/folders/1f06BUTvs7H6sXESJiedxzMrTT0YTIw1M?usp=sharing)
